@@ -1,0 +1,4 @@
+python step1_c3d_create_inputlist_and_outputprefix.py
+./step2_extract_feature.sh
+python step3_svm_create_all_train_test_routefile_and_labelfile.py
+python step4_predict_batch.py
